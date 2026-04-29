@@ -1,0 +1,1474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260429145602THCG7B</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604291456020FK143</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Documento sin título</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777463476196</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mojzuztl-g8vjj9ujw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DEL PLANO A LA PLANIFICACIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DEL PLANO A LA PLANIFICACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DEL PLANO A LA PLANIFICACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>DEL PLANO A LA PLANIFICACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojzuztl-g8vjj9ujw</odePageId>
+      <odeBlockId>block-1775901469267-fo39ew3v4</odeBlockId>
+      <blockName>PRESENTACIÓN DEL RETO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojzuztl-g8vjj9ujw</odePageId>
+          <odeBlockId>block-1775901469267-fo39ew3v4</odeBlockId>
+          <odeIdeviceId>idevice-1775901469265-lpt62exh5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Vais a trabajar como técnicos y técnicas de producción en una empresa de fabricación mecánica.</p>
+<p style="text-align: justify;">Se os ha encargado analizar la fabricación de una pieza en torno convencional. Para ello, deberéis definir el proceso completo de mecanizado, calcular los tiempos de producción y verificar la calidad del producto final.</p>
+<p style="text-align: justify;">Finalmente, presentaréis vuestro trabajo mediante una infografía y un vídeo técnico.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775901469265-lpt62exh5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Vais a trabajar como técnicos y técnicas de producción en una empresa de fabricación mecánica.</p>\n<p style=\"text-align: justify;\">Se os ha encargado analizar la fabricación de una pieza en torno convencional. Para ello, deberéis definir el proceso completo de mecanizado, calcular los tiempos de producción y verificar la calidad del producto final.</p>\n<p style=\"text-align: justify;\">Finalmente, presentaréis vuestro trabajo mediante una infografía y un vídeo técnico.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mojzuztl-g8vjj9ujw</odePageId>
+      <odeBlockId>block-1777465075775-c3oaxw88p</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojzuztl-g8vjj9ujw</odePageId>
+          <odeBlockId>block-1777465075775-c3oaxw88p</odeBlockId>
+          <odeIdeviceId>idevice-1777465075773-eeddtthzm</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777465075773-eeddtthzm" title="" href="{{context_path}}/content/resources/INFOGRAFÍA.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/INFOGRAFÍA.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777465075773-eeddtthzm","img_0":{"img":"{{context_path}}/content/resources/INFOGRAFÍA.png","thumbnail":"{{context_path}}/content/resources/INFOGRAFÍA.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojzuztm-l4sgoklrw</odePageId>
+  <odeParentPageId>page-mojzuztl-g8vjj9ujw</odeParentPageId>
+  <pageName>¿QUÉ VAIS A APRENDER?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿QUÉ VAIS A APRENDER?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿QUÉ VAIS A APRENDER?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojzuztm-l4sgoklrw</odePageId>
+      <odeBlockId>block-1775901549617-es0vqyr3w</odeBlockId>
+      <blockName>¿QUE VAIS A APRENDER?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojzuztm-l4sgoklrw</odePageId>
+          <odeBlockId>block-1775901549617-es0vqyr3w</odeBlockId>
+          <odeIdeviceId>idevice-1775901549615-r578y09bk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Interpretar planos de piezas mecanizadas</li>
+<li>Definir procesos de mecanizado en torno.</li>
+<li>Calcular tiempos de fabricación.</li>
+<li>Analizar la calidad de un producto.</li>
+<li>Crear contenidos digitales.</li>
+<li>Trabajar de forma colaborativa.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775901549615-r578y09bk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Interpretar planos de piezas mecanizadas</li>\n<li>Definir procesos de mecanizado en torno.</li>\n<li>Calcular tiempos de fabricación.</li>\n<li>Analizar la calidad de un producto.</li>\n<li>Crear contenidos digitales.</li>\n<li>Trabajar de forma colaborativa.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojzuztn-0c9a3bwp0</odePageId>
+  <odeParentPageId>page-mojzuztl-g8vjj9ujw</odeParentPageId>
+  <pageName>CONTENIDOS</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONTENIDOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONTENIDOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojzuztn-0c9a3bwp0</odePageId>
+      <odeBlockId>block-1775901618318-k7jgdry8m</odeBlockId>
+      <blockName>PROCESOS DE MECANIZADO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojzuztn-0c9a3bwp0</odePageId>
+          <odeBlockId>block-1775901618318-k7jgdry8m</odeBlockId>
+          <odeIdeviceId>idevice-1775901618316-8wawi9a9n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Operaciones en torno.</li>
+<li>Secuencia de mecanizado.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775901618316-8wawi9a9n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Operaciones en torno.</li>\n<li>Secuencia de mecanizado.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mojzuztn-0c9a3bwp0</odePageId>
+      <odeBlockId>block-1775901643251-oem1mvn4c</odeBlockId>
+      <blockName>PARÁMETROS DE CORTE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojzuztn-0c9a3bwp0</odePageId>
+          <odeBlockId>block-1775901643251-oem1mvn4c</odeBlockId>
+          <odeIdeviceId>idevice-1775901643249-dttnhh6bw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Velocidad de corte.</li>
+<li>Avance.</li>
+<li>Profundidad de pasada.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775901643249-dttnhh6bw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Velocidad de corte.</li>\n<li>Avance.</li>\n<li>Profundidad de pasada.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mojzuztn-0c9a3bwp0</odePageId>
+      <odeBlockId>block-1775901675783-jia0hfupd</odeBlockId>
+      <blockName>CÁLCULO DE TIEMPOS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojzuztn-0c9a3bwp0</odePageId>
+          <odeBlockId>block-1775901675783-jia0hfupd</odeBlockId>
+          <odeIdeviceId>idevice-1775901675781-dzr05olez</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Tiempos de mecanizado.</li>
+<li>Tiempos muertos.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775901675781-dzr05olez","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Tiempos de mecanizado.</li>\n<li>Tiempos muertos.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mojzuztn-0c9a3bwp0</odePageId>
+      <odeBlockId>block-1775901705017-usj5pp6cp</odeBlockId>
+      <blockName>METROLOGÍA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojzuztn-0c9a3bwp0</odePageId>
+          <odeBlockId>block-1775901705017-usj5pp6cp</odeBlockId>
+          <odeIdeviceId>idevice-1775901705015-0l7z43px2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Instrumentos de medida.</li>
+<li>Tolerancias.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775901705015-0l7z43px2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Instrumentos de medida.</li>\n<li>Tolerancias.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojzuztn-ysxhc1v5a</odePageId>
+  <odeParentPageId>page-mojzuztl-g8vjj9ujw</odeParentPageId>
+  <pageName>HERRAMIENTAS Y DESCARGAS</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS Y DESCARGAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>HERRAMIENTAS Y DESCARGAS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojzuztn-ysxhc1v5a</odePageId>
+      <odeBlockId>block-1775901743967-zmxpxtxdm</odeBlockId>
+      <blockName>HERRAMIENTAS A UTILIZAR</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojzuztn-ysxhc1v5a</odePageId>
+          <odeBlockId>block-1775901743967-zmxpxtxdm</odeBlockId>
+          <odeIdeviceId>idevice-1775901743965-6cktkmy6z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Microsoft Excel</li>
+<li>Microsoft Teams.</li>
+<li>Canva / Genially.</li>
+<li>Herramientas de vídeo (Clipchamp o similar).</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775901743965-6cktkmy6z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Microsoft Excel</li>\n<li>Microsoft Teams.</li>\n<li>Canva / Genially.</li>\n<li>Herramientas de vídeo (Clipchamp o similar).</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mojzuztn-ysxhc1v5a</odePageId>
+      <odeBlockId>block-1777224868898-220r14k3q</odeBlockId>
+      <blockName>DESCARGAS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojzuztn-ysxhc1v5a</odePageId>
+          <odeBlockId>block-1777224868898-220r14k3q</odeBlockId>
+          <odeIdeviceId>idevice-1777224868897-wpyn8ereu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Aquí tenéis a vuestra disposición el PLANO del eje y los formatos de HOJA DE PROCESOS y HOJA DE VERIFICACIÓN que podéis utilizar para realizar la entrega. Se pueden utilizar otros formatos siempre que contengan la información necesaria en cada una de las etapas de la fabricación.</p>
+<ul>
+<li><a href="{{context_path}}/content/resources/PLANO.pdf" title="PLANO.pdf">PLANO</a></li>
+<li><a href="{{context_path}}/content/resources/HOJA DE PROCESOS.pdf" title="HOJA DE PROCESOS.pdf">HOJA DE PROCESO.</a></li>
+<li><a href="{{context_path}}/content/resources/HOJA DE VERIFICACIÓN.pdf" title="HOJA DE VERIFICACIÓN.pdf">HOJA DE VERIFICACIÓN.</a></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777224868897-wpyn8ereu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Aquí tenéis a vuestra disposición el PLANO del eje y los formatos de HOJA DE PROCESOS y HOJA DE VERIFICACIÓN que podéis utilizar para realizar la entrega. Se pueden utilizar otros formatos siempre que contengan la información necesaria en cada una de las etapas de la fabricación.</p>\n<ul>\n<li><a href=\"{{context_path}}/content/resources/PLANO.pdf\" title=\"PLANO.pdf\">PLANO</a></li>\n<li><a href=\"{{context_path}}/content/resources/HOJA DE PROCESOS.pdf\" title=\"HOJA DE PROCESOS.pdf\">HOJA DE PROCESO.</a></li>\n<li><a href=\"{{context_path}}/content/resources/HOJA DE VERIFICACIÓN.pdf\" title=\"HOJA DE VERIFICACIÓN.pdf\">HOJA DE VERIFICACIÓN.</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojzuzto-3b8p2m4jt</odePageId>
+  <odeParentPageId>page-mojzuztl-g8vjj9ujw</odeParentPageId>
+  <pageName>ACTIVIDADES PASO A PASO</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES PASO A PASO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES PASO A PASO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojzuzto-3b8p2m4jt</odePageId>
+      <odeBlockId>block-1777457169845-kab0929qe</odeBlockId>
+      <blockName>OPERACIONES DE TORNEADO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojzuzto-3b8p2m4jt</odePageId>
+          <odeBlockId>block-1777457169845-kab0929qe</odeBlockId>
+          <odeIdeviceId>idevice-1777457169843-g4zvzme8g</odeIdeviceId>
+          <odeIdeviceTypeName>relate</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="relaciona-IDevice"><div class="relaciona-instructions gameQP-instructions"><p>RECORDEMOS LAS OPERACIONES DE TORNEADO</p>
+<p>Relaciona cada imagen con la operación de torneado que representa</p></div><div class="relaciona-DataGame js-hidden">{"typeGame":"Relaciona","author":"","randomCards":true,"instructions":"<p>RECORDEMOS LAS OPERACIONES DE TORNEADO</p>\n<p>Relaciona cada imagen con la operación de torneado que representa</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"{{context_path}}/content/resources/CILINDRADO.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Cilindrado"},{"url":"{{context_path}}/content/resources/REFRENTADO.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Refrentado"},{"url":"{{context_path}}/content/resources/TALADRADO.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Taladrado"},{"url":"{{context_path}}/content/resources/ROSCADO.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Roscado"},{"url":"{{context_path}}/content/resources/MANDRINADO.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Mandrinado"},{"url":"{{context_path}}/content/resources/TRONZADO.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Tronzado"},{"url":"{{context_path}}/content/resources/RANURADO.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Ranudaro"}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","version":2,"percentajeCards":100,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"3496c1fc-962b-4491-91ca-6404b266358b","id":"idevice-1777457169843-g4zvzme8g","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgNumQuestions":"Número de tarjetas","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Relaciona","msgCheck":"Comprobar","msgRestart":"Reiniciar"}}</div><div class="game-evaluation-ids js-hidden" data-id="idevice-1777457169843-g4zvzme8g" data-evaluationb="false" data-evaluationid="3496c1fc-962b-4491-91ca-6404b266358b"></div><a href="{{context_path}}/content/resources/CILINDRADO.jpg" class="js-hidden relaciona-LinkImages">0</a><a href="{{context_path}}/content/resources/REFRENTADO.jpg" class="js-hidden relaciona-LinkImages">1</a><a href="{{context_path}}/content/resources/TALADRADO.jpg" class="js-hidden relaciona-LinkImages">2</a><a href="{{context_path}}/content/resources/ROSCADO.jpg" class="js-hidden relaciona-LinkImages">3</a><a href="{{context_path}}/content/resources/MANDRINADO.jpg" class="js-hidden relaciona-LinkImages">4</a><a href="{{context_path}}/content/resources/TRONZADO.jpg" class="js-hidden relaciona-LinkImages">5</a><a href="{{context_path}}/content/resources/RANURADO.jpg" class="js-hidden relaciona-LinkImages">6</a><div class="relaciona-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mojzuzto-3b8p2m4jt</odePageId>
+      <odeBlockId>block-1777466051343-xn8j0qr7v</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojzuzto-3b8p2m4jt</odePageId>
+          <odeBlockId>block-1777466051343-xn8j0qr7v</odeBlockId>
+          <odeIdeviceId>idevice-1777466051342-o0yw4on16</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">ACTIVIDAD 1: INTERPRETACIÓN DEL PLANO</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><strong>SESIONES 1 Y 2</strong></p>
+<ul>
+<li>Análisis la pieza propuesta.</li>
+<li>Identificación de &nbsp;sus características principales.</li>
+</ul>
+<p>📌 Entrega: breve documento o esquema.</p></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><p><strong>SESIONES 1 Y 2</strong></p>
+<ul>
+<li>Análisis la pieza propuesta.</li>
+<li>Identificación de  sus características principales.</li>
+</ul>
+<p>📌 Entrega: breve documento o esquema.</p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">ACTIVIDAD 2: DEFINICIÓN DEL PROCESO</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><strong>SESIÓN 3</strong></p>
+<ul>
+<li>Identificación de &nbsp;las operaciones necesarias</li>
+<li>Secuenciación de las operaciones necesarias.</li>
+</ul>
+<p>📌 Entrega: HOJA DE PROCESOS</p></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><p><strong>SESIÓN 3</strong></p>
+<ul>
+<li>Identificación de  las operaciones necesarias</li>
+<li>Secuenciación de las operaciones necesarias</li>
+</ul>
+<p>📌 Entrega: HOJA DE PROCESOS</p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">ACTIVIDAD 3: CÁLCULO DE TIEMPO</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><strong>SESIONES 4 Y 5</strong></p>
+<ul>
+<li>Cálculo de los tiempos de mecanizado.<br></li>
+<li>Calculo de tiempos muertos.<br></li>
+</ul>
+<p>📌 Entrega: archivo Excel</p></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><p><strong>SESIONES 4 Y 5</strong></p>
+<ul>
+<li>Cálculo de los tiempos de mecanizado.</li>
+<li>Calculo de tiempos muertos.</li>
+</ul>
+<p>📌 Entrega: archivo Excel</p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">ACTIVIDAD 4: CONTROL DE CALIDAD</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><strong>SESIONES 6 Y 7</strong></p>
+<ul>
+<li>Identificación de las medidas críticas.</li>
+<li>Selección de instrumentos de medida adecuados.</li>
+<li>Mediciones.</li>
+</ul>
+<p>📌 Entrega: HOJA DE VERIFICACIÓN</p></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><p><strong>SESIONES 6 Y 7</strong></p>
+<ul>
+<li>Identificación de las medidas críticas.</li>
+<li>Selección de instrumentos de medida adecuados.</li>
+<li>Mediciones.</li>
+</ul>
+<p>📌 Entrega: HOJA DE VERIFICACIÓN</p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">ACTIVIDAD 5: INFOGRAFÍA</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><strong>SESIÓN 8</strong></p>
+<ul>
+<li>Representación del proceso: Fases, parámetros, tiempos y control de calidad.</li>
+</ul>
+<p>📌 Entrega: enlace o archivo</p></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><p><strong>SESIÓN 8</strong></p>
+<ul>
+<li>Representación del proceso: Fases, parámetros, tiempos y control de calidad.</li>
+</ul>
+<p>📌 Entrega: enlace o archivo</p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">ACTIVIDAD 6: VÍDEO TÉCNICO</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><strong>SESIÓN 9</strong></p>
+<ul>
+<li>Explicación del trabajo realizado.</li>
+<li>Justificación de decisiones.</li>
+</ul>
+<p>📌 Entrega: vídeo (3–5 minutos)</p></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><p><strong>SESIÓN 9</strong></p>
+<ul>
+<li>Explicación del trabajo realizado.</li>
+<li>Justificación de decisiones</li>
+</ul>
+<p>📌 Entrega: vídeo (3–5 minutos)</p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">ACTIVIDAD 7: PRESENTACIÓN</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><strong>SESIÓN 10</strong></p>
+<ul>
+<li>Presentación</li>
+</ul></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><p><strong>SESIÓN 10</strong></p>
+<ul>
+<li>Presentación</li>
+</ul><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojzuzto-z6krcwy2o</odePageId>
+  <odeParentPageId>page-mojzuztl-g8vjj9ujw</odeParentPageId>
+  <pageName>¿CÓMO SE OS VA A EVALUAR?</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿CÓMO SE OS VA A EVALUAR?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿CÓMO SE OS VA A EVALUAR?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojzuzto-z6krcwy2o</odePageId>
+      <odeBlockId>block-1775902259347-so2wb8sjc</odeBlockId>
+      <blockName>EVALUACIÓN CONTINUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojzuzto-z6krcwy2o</odePageId>
+          <odeBlockId>block-1775902259347-so2wb8sjc</odeBlockId>
+          <odeIdeviceId>idevice-1775902259345-0nvf9h4js</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Seréis evaluados durante todo el proceso:</p>
+<ul>
+<li>Actividades intermedias.</li>
+<li>Participación.</li>
+<li>Trabajo en equipo.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775902259345-0nvf9h4js","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Seréis evaluados durante todo el proceso:</p>\n<ul>\n<li>Actividades intermedias.</li>\n<li>Participación.</li>\n<li>Trabajo en equipo.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mojzuzto-z6krcwy2o</odePageId>
+      <odeBlockId>block-1775902290465-zub3mckf8</odeBlockId>
+      <blockName>PRODUCTOS FINALES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojzuzto-z6krcwy2o</odePageId>
+          <odeBlockId>block-1775902290465-zub3mckf8</odeBlockId>
+          <odeIdeviceId>idevice-1775902290463-xl04n88d5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Infografía (30%)</strong></p>
+<ul>
+<li>Claridad.</li>
+<li>Contenido técnico</li>
+<li>Diseño.</li>
+</ul>
+<p><strong>Vídeo (30%)</strong><br /></p>
+<ul>
+<li>Explicación</li>
+<li>Rigor técnico.</li>
+<li>Comunicación.<br /></li>
+</ul>
+<p><strong>Trabajo técnico (40%)</strong><br /></p>
+<ul>
+<li>Hoja de procesos.</li>
+<li>Cálculos.</li>
+<li>Control de calidad.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775902290463-xl04n88d5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Infografía (30%)</strong></p>\n<ul>\n<li>Claridad.</li>\n<li>Contenido técnico</li>\n<li>Diseño.</li>\n</ul>\n<p><strong>Vídeo (30%)</strong><br /></p>\n<ul>\n<li>Explicación</li>\n<li>Rigor técnico.</li>\n<li>Comunicación.<br /></li>\n</ul>\n<p><strong>Trabajo técnico (40%)</strong><br /></p>\n<ul>\n<li>Hoja de procesos.</li>\n<li>Cálculos.</li>\n<li>Control de calidad.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojzuzto-a5q6hzkcb</odePageId>
+  <odeParentPageId>page-mojzuztl-g8vjj9ujw</odeParentPageId>
+  <pageName>INSTRUMENTOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojzuzto-a5q6hzkcb</odePageId>
+      <odeBlockId>block-1775902436531-fhvgibw5l</odeBlockId>
+      <blockName>INSTRUMENTOS DE EVALUACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojzuzto-a5q6hzkcb</odePageId>
+          <odeBlockId>block-1775902436531-fhvgibw5l</odeBlockId>
+          <odeIdeviceId>idevice-1775902436529-q4mgyy5cy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>📋 Rúbrica de infografía</strong><br /></p>
+<ul>
+<li>Contenido correcto.</li>
+<li>Organización.</li>
+<li>Uso de recursos visuales.</li>
+</ul>
+<table border="1" style="width: 102.191%; height: 348px; background-color: #bfedd2; border-color: #2DC26B; border-style: solid;">
+<tbody>
+<tr style="height: 33px;">
+<td style="width: 19.1919%; height: 33px;"><br /></td>
+<td style="width: 17.9293%; height: 33px; text-align: center;"><strong>EXCELENTE (5)</strong></td>
+<td style="width: 21.9697%; height: 33px; text-align: center;"><strong>SATISFACTORIO (3)</strong></td>
+<td style="width: 18.9427%; height: 33px; text-align: center;"><strong>EN PROCESO (2)</strong></td>
+<td style="width: 21.7138%; height: 33px; text-align: center;"><strong>INSUFICIENTE (1)</strong></td>
+</tr>
+<tr style="height: 153px;">
+<td style="width: 19.1919%; text-align: center; height: 153px;"><strong>CONTENIDO TÉCNICO</strong></td>
+<td style="width: 17.9293%; text-align: center; height: 153px;">Define con total precisión el proceso de mecanizado, tiempos y calidad.</td>
+<td style="width: 21.9697%; text-align: center; height: 153px;">Define el proceso y tiempos, pero falta algún detalle de calidad.</td>
+<td style="width: 18.9427%; text-align: center; height: 153px;">La definición del proceso es incompleta o tiene errores.</td>
+<td style="width: 21.7138%; text-align: center; height: 153px;">No se identifican las fases del proceso de producción.</td>
+</tr>
+<tr style="height: 129px;">
+<td style="width: 19.1919%; text-align: center; height: 129px;"><strong>ORGANIZACIÓN</strong></td>
+<td style="width: 17.9293%; text-align: center; height: 129px;">La información está estructurada de forma lógica y profesional.</td>
+<td style="width: 21.9697%; text-align: center; height: 129px;">La estructura es clara, pero algo densa.</td>
+<td style="width: 18.9427%; text-align: center; height: 129px;">La información está desorganizada en algunos puntos.</td>
+<td style="width: 21.7138%; text-align: center; height: 129px;">No hay un orden lógico en la presentación de datos.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.1919%; text-align: center; height: 33px;"><strong>DISEÑO VISUAL</strong></td>
+<td style="width: 17.9293%; height: 33px; text-align: center;">Uso excelente de iconos y gráficos que facilitan la comprensión técnica.</td>
+<td style="width: 21.9697%; height: 33px; text-align: center;">Diseño correcto, aunque faltan apoyos visuales en puntos clave.</td>
+<td style="width: 18.9427%; height: 33px; text-align: center;">El diseño es muy básico y no ayuda a la comprensión.</td>
+<td style="width: 21.7138%; height: 33px; text-align: center;">El diseño dificulta la lectura de la información técnica.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>📋 Rúbrica de vídeo</strong></p>
+<ul>
+<li>Claridad en la explicación.</li>
+<li>Uso de vocabulario técnico.</li>
+<li>Calidad del contenido.</li>
+</ul>
+<table border="1" style="width: 100%; height: 132px; background-color: #bfedd2; border-color: #2DC26B; border-style: solid;">
+<tbody>
+<tr style="height: 33px;">
+<td style="width: 19.975%; height: 33px;"><br /></td>
+<td style="width: 19.975%; text-align: center; height: 33px;"><strong>EXCELENTE (5)</strong></td>
+<td style="width: 19.975%; text-align: center; height: 33px;"><strong>SATISFACTORIO (3)</strong></td>
+<td style="width: 19.975%; text-align: center; height: 33px;"><strong>EN PROCESO (2)</strong></td>
+<td style="width: 19.976%; text-align: center; height: 33px;"><strong>INSUFICIENTE (1)</strong></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.975%; text-align: center; height: 33px;"><strong>CONTENIDO TÉCNICO</strong></td>
+<td style="width: 19.975%; height: 33px; text-align: center;">Explica detalladamente el uso del torno y los cálculos realizados.</td>
+<td style="width: 19.975%; height: 33px; text-align: center;">Explica el proceso, pero los cálculos se mencionan superficialmente.</td>
+<td style="width: 19.975%; height: 33px; text-align: center;">La explicación técnica es confusa o incompleta.</td>
+<td style="width: 19.976%; height: 33px; text-align: center;">No se explica el procedimiento técnico solicitado.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.975%; text-align: center; height: 33px;"><strong>ORGANIZACIÓN</strong></td>
+<td style="width: 19.975%; height: 33px; text-align: center;">Lenguaje técnico preciso y narración fluida y profesional.</td>
+<td style="width: 19.975%; height: 33px; text-align: center;">Lenguaje técnico adecuado, aunque la narración tiene pausas.</td>
+<td style="width: 19.975%; height: 33px; text-align: center;">El vocabulario técnico es escaso o mal utilizado.</td>
+<td style="width: 19.976%; height: 33px; text-align: center;">No se utiliza terminología propia de la fabricación mecánica.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.975%; text-align: center; height: 33px;"><strong>DISEÑO VISUAL</strong></td>
+<td style="width: 19.975%; height: 33px; text-align: center;">Imagen y sonido claros; edición que resalta los pasos clave.</td>
+<td style="width: 19.975%; height: 33px; text-align: center;">Buena imagen y sonido, pero la edición es plana.</td>
+<td style="width: 19.975%; height: 33px; text-align: center;">Problemas puntuales de audio o imagen que distraen.</td>
+<td style="width: 19.976%; height: 33px; text-align: center;">Calidad de audio o imagen deficiente que impide el seguimiento.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>📋 Lista de cotejo</strong><strong></strong></p>
+<ul>
+<li>Hoja de procesos correcta.</li>
+<li>Cálculos bien realizados</li>
+<li>Control de calidad definido.</li>
+</ul>
+<table border="1" style="width: 100%; background-color: #ccffe3; border-color: #2DC26B; border-style: solid;">
+<tbody>
+<tr>
+<td style="width: 55.2416%; text-align: center;"><br /></td>
+<td style="width: 5.65178%; text-align: center;"><strong>SI</strong></td>
+<td style="width: 5.83335%; text-align: center;"><strong>NO</strong></td>
+<td style="width: 33.2733%; text-align: center;"><strong>OBSERVACIONES</strong></td>
+</tr>
+<tr>
+<td style="width: 55.2416%;"><strong>¿Se ha definido el proceso completo de mecanizado en torno convencional?</strong></td>
+<td style="width: 5.65178%;"><br /></td>
+<td style="width: 5.83335%;"><br /></td>
+<td style="width: 33.2733%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 55.2416%;"><strong>¿Se han incluido los cálculos detallados de los tiempos de producción?</strong></td>
+<td style="width: 5.65178%;"><br /></td>
+<td style="width: 5.83335%;"><br /></td>
+<td style="width: 33.2733%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 55.2416%;"><strong>¿Se describen los métodos y herramientas para verificar la calidad final?</strong></td>
+<td style="width: 5.65178%;"><br /></td>
+<td style="width: 5.83335%;"><br /></td>
+<td style="width: 33.2733%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 55.2416%;"><strong>¿La infografía resume visualmente las tres fases del reto?</strong></td>
+<td style="width: 5.65178%;"><br /></td>
+<td style="width: 5.83335%;"><br /></td>
+<td style="width: 33.2733%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 55.2416%;"><strong>¿El vídeo técnico muestra el análisis de fabricación de la pieza?</strong></td>
+<td style="width: 5.65178%;"><br /></td>
+<td style="width: 5.83335%;"><br /></td>
+<td style="width: 33.2733%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 55.2416%;"><strong>¿Se ha trabajado bajo el rol profesional de técnico de producción?</strong></td>
+<td style="width: 5.65178%;"><br /></td>
+<td style="width: 5.83335%;"><br /></td>
+<td style="width: 33.2733%;"></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775902436529-q4mgyy5cy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>📋 Rúbrica de infografía</strong><br /></p>\n<ul>\n<li>Contenido correcto.</li>\n<li>Organización.</li>\n<li>Uso de recursos visuales.</li>\n</ul>\n<table border=\"1\" style=\"width: 102.191%; height: 348px; background-color: #bfedd2; border-color: #2DC26B; border-style: solid;\">\n<tbody>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.1919%; height: 33px;\"><br /></td>\n<td style=\"width: 17.9293%; height: 33px; text-align: center;\"><strong>EXCELENTE (5)</strong></td>\n<td style=\"width: 21.9697%; height: 33px; text-align: center;\"><strong>SATISFACTORIO (3)</strong></td>\n<td style=\"width: 18.9427%; height: 33px; text-align: center;\"><strong>EN PROCESO (2)</strong></td>\n<td style=\"width: 21.7138%; height: 33px; text-align: center;\"><strong>INSUFICIENTE (1)</strong></td>\n</tr>\n<tr style=\"height: 153px;\">\n<td style=\"width: 19.1919%; text-align: center; height: 153px;\"><strong>CONTENIDO TÉCNICO</strong></td>\n<td style=\"width: 17.9293%; text-align: center; height: 153px;\">Define con total precisión el proceso de mecanizado, tiempos y calidad.</td>\n<td style=\"width: 21.9697%; text-align: center; height: 153px;\">Define el proceso y tiempos, pero falta algún detalle de calidad.</td>\n<td style=\"width: 18.9427%; text-align: center; height: 153px;\">La definición del proceso es incompleta o tiene errores.</td>\n<td style=\"width: 21.7138%; text-align: center; height: 153px;\">No se identifican las fases del proceso de producción.</td>\n</tr>\n<tr style=\"height: 129px;\">\n<td style=\"width: 19.1919%; text-align: center; height: 129px;\"><strong>ORGANIZACIÓN</strong></td>\n<td style=\"width: 17.9293%; text-align: center; height: 129px;\">La información está estructurada de forma lógica y profesional.</td>\n<td style=\"width: 21.9697%; text-align: center; height: 129px;\">La estructura es clara, pero algo densa.</td>\n<td style=\"width: 18.9427%; text-align: center; height: 129px;\">La información está desorganizada en algunos puntos.</td>\n<td style=\"width: 21.7138%; text-align: center; height: 129px;\">No hay un orden lógico en la presentación de datos.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.1919%; text-align: center; height: 33px;\"><strong>DISEÑO VISUAL</strong></td>\n<td style=\"width: 17.9293%; height: 33px; text-align: center;\">Uso excelente de iconos y gráficos que facilitan la comprensión técnica.</td>\n<td style=\"width: 21.9697%; height: 33px; text-align: center;\">Diseño correcto, aunque faltan apoyos visuales en puntos clave.</td>\n<td style=\"width: 18.9427%; height: 33px; text-align: center;\">El diseño es muy básico y no ayuda a la comprensión.</td>\n<td style=\"width: 21.7138%; height: 33px; text-align: center;\">El diseño dificulta la lectura de la información técnica.</td>\n</tr>\n</tbody>\n</table>\n<p><strong>📋 Rúbrica de vídeo</strong></p>\n<ul>\n<li>Claridad en la explicación.</li>\n<li>Uso de vocabulario técnico.</li>\n<li>Calidad del contenido.</li>\n</ul>\n<table border=\"1\" style=\"width: 100%; height: 132px; background-color: #bfedd2; border-color: #2DC26B; border-style: solid;\">\n<tbody>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.975%; height: 33px;\"><br /></td>\n<td style=\"width: 19.975%; text-align: center; height: 33px;\"><strong>EXCELENTE (5)</strong></td>\n<td style=\"width: 19.975%; text-align: center; height: 33px;\"><strong>SATISFACTORIO (3)</strong></td>\n<td style=\"width: 19.975%; text-align: center; height: 33px;\"><strong>EN PROCESO (2)</strong></td>\n<td style=\"width: 19.976%; text-align: center; height: 33px;\"><strong>INSUFICIENTE (1)</strong></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.975%; text-align: center; height: 33px;\"><strong>CONTENIDO TÉCNICO</strong></td>\n<td style=\"width: 19.975%; height: 33px; text-align: center;\">Explica detalladamente el uso del torno y los cálculos realizados.</td>\n<td style=\"width: 19.975%; height: 33px; text-align: center;\">Explica el proceso, pero los cálculos se mencionan superficialmente.</td>\n<td style=\"width: 19.975%; height: 33px; text-align: center;\">La explicación técnica es confusa o incompleta.</td>\n<td style=\"width: 19.976%; height: 33px; text-align: center;\">No se explica el procedimiento técnico solicitado.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.975%; text-align: center; height: 33px;\"><strong>ORGANIZACIÓN</strong></td>\n<td style=\"width: 19.975%; height: 33px; text-align: center;\">Lenguaje técnico preciso y narración fluida y profesional.</td>\n<td style=\"width: 19.975%; height: 33px; text-align: center;\">Lenguaje técnico adecuado, aunque la narración tiene pausas.</td>\n<td style=\"width: 19.975%; height: 33px; text-align: center;\">El vocabulario técnico es escaso o mal utilizado.</td>\n<td style=\"width: 19.976%; height: 33px; text-align: center;\">No se utiliza terminología propia de la fabricación mecánica.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.975%; text-align: center; height: 33px;\"><strong>DISEÑO VISUAL</strong></td>\n<td style=\"width: 19.975%; height: 33px; text-align: center;\">Imagen y sonido claros; edición que resalta los pasos clave.</td>\n<td style=\"width: 19.975%; height: 33px; text-align: center;\">Buena imagen y sonido, pero la edición es plana.</td>\n<td style=\"width: 19.975%; height: 33px; text-align: center;\">Problemas puntuales de audio o imagen que distraen.</td>\n<td style=\"width: 19.976%; height: 33px; text-align: center;\">Calidad de audio o imagen deficiente que impide el seguimiento.</td>\n</tr>\n</tbody>\n</table>\n<p><strong>📋 Lista de cotejo</strong><strong></strong></p>\n<ul>\n<li>Hoja de procesos correcta.</li>\n<li>Cálculos bien realizados</li>\n<li>Control de calidad definido.</li>\n</ul>\n<table border=\"1\" style=\"width: 100%; background-color: #ccffe3; border-color: #2DC26B; border-style: solid;\">\n<tbody>\n<tr>\n<td style=\"width: 55.2416%; text-align: center;\"><br /></td>\n<td style=\"width: 5.65178%; text-align: center;\"><strong>SI</strong></td>\n<td style=\"width: 5.83335%; text-align: center;\"><strong>NO</strong></td>\n<td style=\"width: 33.2733%; text-align: center;\"><strong>OBSERVACIONES</strong></td>\n</tr>\n<tr>\n<td style=\"width: 55.2416%;\"><strong>¿Se ha definido el proceso completo de mecanizado en torno convencional?</strong></td>\n<td style=\"width: 5.65178%;\"><br /></td>\n<td style=\"width: 5.83335%;\"><br /></td>\n<td style=\"width: 33.2733%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 55.2416%;\"><strong>¿Se han incluido los cálculos detallados de los tiempos de producción?</strong></td>\n<td style=\"width: 5.65178%;\"><br /></td>\n<td style=\"width: 5.83335%;\"><br /></td>\n<td style=\"width: 33.2733%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 55.2416%;\"><strong>¿Se describen los métodos y herramientas para verificar la calidad final?</strong></td>\n<td style=\"width: 5.65178%;\"><br /></td>\n<td style=\"width: 5.83335%;\"><br /></td>\n<td style=\"width: 33.2733%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 55.2416%;\"><strong>¿La infografía resume visualmente las tres fases del reto?</strong></td>\n<td style=\"width: 5.65178%;\"><br /></td>\n<td style=\"width: 5.83335%;\"><br /></td>\n<td style=\"width: 33.2733%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 55.2416%;\"><strong>¿El vídeo técnico muestra el análisis de fabricación de la pieza?</strong></td>\n<td style=\"width: 5.65178%;\"><br /></td>\n<td style=\"width: 5.83335%;\"><br /></td>\n<td style=\"width: 33.2733%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 55.2416%;\"><strong>¿Se ha trabajado bajo el rol profesional de técnico de producción?</strong></td>\n<td style=\"width: 5.65178%;\"><br /></td>\n<td style=\"width: 5.83335%;\"><br /></td>\n<td style=\"width: 33.2733%;\"></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojzuzto-3sckyhkln</odePageId>
+  <odeParentPageId>page-mojzuztl-g8vjj9ujw</odeParentPageId>
+  <pageName>ATRIBUCIÓN Y DESCARGA</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ATRIBUCIÓN Y DESCARGA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ATRIBUCIÓN Y DESCRGA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>ATRIBUCIÓN Y DESCARGA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojzuzto-3sckyhkln</odePageId>
+      <odeBlockId>block-1777227555397-q63dzrm6n</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojzuzto-3sckyhkln</odePageId>
+          <odeBlockId>block-1777227555397-q63dzrm6n</odeBlockId>
+          <odeIdeviceId>idevice-1777227555396-hws2weko9</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked">DEL PLANO A LA PLANIFICACIÓN</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked">Sda para la planificación y verificación de un eje en torno convencional.</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
